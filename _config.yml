@@ -20,7 +20,7 @@ youtube_username: "0x150"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
