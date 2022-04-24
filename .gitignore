@@ -1,1 +1,4 @@
 ﻿_site
+.gitignore
+createPost.sh
+publish.sh
